@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1702861467
+icon.svg::CompressedTexture2D::8769204031379121800::1702853633::1702853637::1::::<><>::
+::res://Levels/::1702861452
+level_1.tscn::PackedScene::6069625717004939800::1702861452::0::1::::<><>::uid://dtlo2oslxaqpc::::res://Player/player.tscn
+::res://Player/::1702861451
+player.gd::GDScript::-1::1702860882::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::8516457253494664592::1702861451::0::1::::<><>::res://Player/player.gd

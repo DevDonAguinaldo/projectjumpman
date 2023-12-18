@@ -1,0 +1,10 @@
+CSGBox3D
+CSGPolygon3D
+AnimationPlayer
+MeshInstance3D
+CSGCylinder3D
+Node3D
+Camera3D
+SpringArm3D
+CollisionShape3D
+CharacterBody3D
